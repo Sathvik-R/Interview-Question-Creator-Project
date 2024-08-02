@@ -9,3 +9,8 @@ conda activate interview   -- Use if environemnt already exists else run the abo
 
 2) Run python template.py
  ''' If any file needs to be created add in list and execure the command again.
+
+ 3) Install requirements
+ '''bash
+ pip install -r requirements.txt
+ '''
